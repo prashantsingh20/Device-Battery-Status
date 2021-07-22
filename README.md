@@ -40,11 +40,5 @@
  [ ![ForTheBadge makes-people-smile](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prashantsingh.prashant20@gmail.com)
  <hr>
  <br>
- <p float="left">
-
-[![ForTheBadge built-with-love](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/prashantsingh20)
-[ ![ForTheBadge makes-people-smile](https://forthebadge.com/images/badges/makes-people-smile.svg)](https://github.com/prashantsingh20)
-
-</p>
 
 [![alttext](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/prashantsingh20)
