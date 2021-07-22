@@ -2,11 +2,8 @@
 ## This is my new project called **_Device Battery Status_**. 
 
 ### [Live Demo](https://prashantsingh20.github.io/battery-status/public/index.html)
+![result](https://user-images.githubusercontent.com/68744875/126669666-c5d5c323-7f70-4ce9-b3c8-90e8b40f8f9e.png)
 
-<br>
-(https://user-images.githubusercontent.com/68744875/126667168-133581fb-6b15-42ea-be90-37fed17d6c28.png)
-
-<br>
 
 
 ## Text Editor Used
