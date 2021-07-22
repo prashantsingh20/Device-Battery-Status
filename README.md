@@ -4,11 +4,7 @@
 ### [Live Demo](https://prashantsingh20.github.io/battery-status/public/index.html)
 
 <br>
-
-<p align="center">
 (https://user-images.githubusercontent.com/68744875/126667168-133581fb-6b15-42ea-be90-37fed17d6c28.png)
-</p>
-
 
 <br>
 
@@ -26,8 +22,6 @@
 ![ex](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-
-
 </p>
  <hr>
 
@@ -35,7 +29,7 @@
  ## Cloning this repositary using command line
  1. Open **Git Bash**.
  1. Change the current working directory to the location where you want the cloned directory.
- 1. Type `https://github.com/prashantsingh20/battery-status.git`
+ 1. Type `https://github.com/prashantsingh20/Device-Battery-Status.git`
  1. Press **Enter** to create your clone.
 
 
