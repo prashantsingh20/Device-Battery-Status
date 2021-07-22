@@ -1,7 +1,7 @@
 ## Hi, I'm Prashant
 ## This is my new project called **_Device Battery Status_**. 
 
-### [Live Demo](https://prashantsingh20.github.io/battery-status/public/index.html)
+### [Live Demo](https://prashantsingh20.github.io/Device-Battery-Status/)
 <br>
 
 
